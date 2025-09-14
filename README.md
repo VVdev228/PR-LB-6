@@ -683,3 +683,39 @@ export const deleteEntity = (id: number): void => {
   saveEntities(entities);
 };
 ```
+
+## Результат Роботи:
+
+### Запуск Проєкту
+
+![npmrundev](./6.png)
+![main_page](./7.png)
+
+### Сторінка з публікаціями
+
+![postpage](./8.png)
+
+### Створення Поста
+
+![9](./9.png)
+![10](./10.png)
+![11](./11.png)
+
+### Видалення Поста
+
+![delete](./12.png)
+![delete?](./13.png)
+![deletee](./14.png)
+![postdd](./15.png)
+
+### Прочитати Пост
+
+![read](./16.png)
+
+### Змінення Посту
+
+![Change_post](./17.png)
+![18](./18.png)
+![19](./19.png)
+![20](./20.png)
+![21](./21.png)
